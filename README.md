@@ -11,5 +11,7 @@ Gameplay footage here: https://www.youtube.com/watch?v=23Ws_FJtk44
 Run (and compile) with
 
 mkdir build
+
 cd build
+
 cmake .. && cmake --build . && .\bin\Debug\GFXFramework
