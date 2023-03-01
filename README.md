@@ -15,3 +15,5 @@ mkdir build
 cd build
 
 cmake .. && cmake --build . && .\bin\Debug\GFXFramework
+
+Dependencies that need to be installed depend on the GFXFramework
